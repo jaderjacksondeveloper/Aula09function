@@ -1,11 +1,11 @@
 Algoritmo "FUNCAO"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   :Jader
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 04/05/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 DIG, RESULTADO: REAL
 
@@ -20,7 +20,7 @@ FIMFUNCAO
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
 
 ESCREVAL("INFORME VALOR")
@@ -28,5 +28,5 @@ LEIA(DIG)
 
 RESULTADO <- DOBRO(DIG)
 
-ESCREVAL("O DOBRO É :",RESULTADO)
+ESCREVAL("O DOBRO Ã‰ :",RESULTADO)
 Fimalgoritmo
